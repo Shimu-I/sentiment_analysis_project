@@ -1,5 +1,6 @@
 
 # 📊 Sentiment Analysis Web App
+![GitHub repo size](https://img.shields.io/github/repo-size/Shimu-I/sentiment_analysis_project)
 
 A lightweight and interactive **Streamlit-based sentiment analysis app** that classifies input text into **Positive**, **Neutral**, or **Negative** sentiments using a locally stored pre-trained transformer model.
 

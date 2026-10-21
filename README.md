@@ -4,6 +4,8 @@
 
 A lightweight and interactive **Streamlit-based sentiment analysis app** that classifies input text into **Positive**, **Neutral**, or **Negative** sentiments using a locally stored pre-trained transformer model.
 
+
+Course Project: CSE 3812	Artificial Intelligence Laboratory
 ---
 
 ## 🧩 Project Structure
